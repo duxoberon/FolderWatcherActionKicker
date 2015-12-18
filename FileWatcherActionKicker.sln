@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcherActionKicker", "FileWatcherActionKicker.csproj", "{AA9898D6-6338-498E-9451-439C64C50CCC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FileWatcher_AK", "..\FileWatcher_AK\FileWatcher_AK.vdproj", "{DDE0E241-7F23-463E-8523-2C361D8EF064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9898D6-6338-498E-9451-439C64C50CCC}.Debug|x86.ActiveCfg = Release|x86
+		{AA9898D6-6338-498E-9451-439C64C50CCC}.Debug|x86.Build.0 = Release|x86
+		{AA9898D6-6338-498E-9451-439C64C50CCC}.Release|x86.ActiveCfg = Release|x86
+		{AA9898D6-6338-498E-9451-439C64C50CCC}.Release|x86.Build.0 = Release|x86
+		{DDE0E241-7F23-463E-8523-2C361D8EF064}.Debug|x86.ActiveCfg = Debug
+		{DDE0E241-7F23-463E-8523-2C361D8EF064}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
